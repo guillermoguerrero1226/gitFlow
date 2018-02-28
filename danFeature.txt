@@ -1,0 +1,3 @@
+This is the feature created by Dan
+This feature was created by rachel
+Fixing a bug in the feature (bug fixing by Dan)
